@@ -1,3 +1,11 @@
+
+--------------------------------------------------------
+This Code Base Contains IPv6 Support added to l2tp deamon 
+Source Code Language - C/C++
+Google Code Hosting was closing hence it was moved here
+--------------------------------------------------------
+
+
 URL         : http://www.xelerance.com/software/xl2tpd/
 Summary     : Layer 2 Tunnelling Protocol Daemon (RFC 2661)
 Description :
